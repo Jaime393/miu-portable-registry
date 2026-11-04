@@ -1,6 +1,6 @@
 {
   "schema": "miu.repository-catalog/v1",
-  "observed_at": "2026-11-04T02:36:55Z",
+  "observed_at": "2026-11-04T03:44:08Z",
   "owner": "Jaime393",
   "scope": "Public repository metadata; selected complete trees; bounded draft capabilities",
   "private_inventory": "omitted",
@@ -225,6 +225,31 @@
       "visibility": "public",
       "discovery": "tree_inspected",
       "tree": {
+        "revision": "6fa4cb05efe4b0621e081df8472451e83b89f3c4",
+        "truncated": false,
+        "file_count": 8,
+        "observed_at": "2026-11-04T03:44:08Z",
+        "evidence_scope": "draft_branch_revision_not_main",
+        "candidate_files": [
+          {
+            "path": "README.md",
+            "sha": "2b54de5776c5729ff3ad1b0476e76ef2a5ac43af"
+          },
+          {
+            "path": "miu_agent.py",
+            "sha": "a9f98dbdce85944f5469a2edcb03ad655d4e4bd1"
+          },
+          {
+            "path": "route_resources.py",
+            "sha": "be115fd68f14f45d2b4f407550c360b58af372dc"
+          },
+          {
+            "path": "tests/test_routes.py",
+            "sha": "a17deea291252edcbb155ebab0e0706ee1340de9"
+          }
+        ]
+      },
+      "previous_tree": {
         "truncated": false,
         "file_count": 5,
         "observed_at": "2026-11-04T02:27:17.471Z",
@@ -2058,7 +2083,41 @@
       "url": "https://github.com/Jaime393/pva-api",
       "branch": "main",
       "visibility": "public",
-      "discovery": "metadata_only"
+      "discovery": "tree_inspected",
+      "previous_tree": null,
+      "tree": {
+        "revision": "7efa4ac1b361799445ec23af0c9e8b99447d44f9",
+        "truncated": false,
+        "file_count": 9,
+        "observed_at": "2026-11-04T03:44:09Z",
+        "evidence_scope": "draft_branch_revision_not_main",
+        "candidate_files": [
+          {
+            "path": ".github/workflows/pva.yml",
+            "sha": "04b9b40a490b38a0ce2c15eccfd1f06e2df13c50"
+          },
+          {
+            "path": "Makefile",
+            "sha": "7863e0c8fae88f8ffa76383702c5924f6f831ba8"
+          },
+          {
+            "path": "README.md",
+            "sha": "ed49876eb31253a7917fa3fb7d6d96d2bc6a677a"
+          },
+          {
+            "path": "app.py",
+            "sha": "46184bb8cb848748302c5bc7e89b880a3c0ea0b0"
+          },
+          {
+            "path": "requirements.txt",
+            "sha": "b7c72a67b2a8e676950be23fbaa8307c8bfdd94b"
+          },
+          {
+            "path": "tests/test_api.py",
+            "sha": "ba011acf27b2dd20604ce4eb813c49962813b14a"
+          }
+        ]
+      }
     },
     {
       "github_id": 1364557646,
@@ -2066,7 +2125,49 @@
       "url": "https://github.com/Jaime393/pva-docker-template",
       "branch": "main",
       "visibility": "public",
-      "discovery": "metadata_only"
+      "discovery": "tree_inspected",
+      "previous_tree": null,
+      "tree": {
+        "revision": "e28c03e34df918fa50f467af87d868253aa0eb21",
+        "truncated": false,
+        "file_count": 12,
+        "observed_at": "2026-11-04T03:44:08Z",
+        "evidence_scope": "draft_branch_revision_not_main",
+        "candidate_files": [
+          {
+            "path": ".github/workflows/pva.yml",
+            "sha": "903a9825fe560a9e513ded2fe6e463c708e53b6d"
+          },
+          {
+            "path": "Makefile",
+            "sha": "8f3a96f156e7b8d3e85e6f4aac1a168e57fc9a30"
+          },
+          {
+            "path": "README.md",
+            "sha": "1e2cce59afc640ae00a8c0b7a970ba9f30bb91de"
+          },
+          {
+            "path": "data/README.md",
+            "sha": "0f24d048357960603b090a9c1f02c8b6b6e26504"
+          },
+          {
+            "path": "requirements.txt",
+            "sha": "b7c72a67b2a8e676950be23fbaa8307c8bfdd94b"
+          },
+          {
+            "path": "scripts/repro.py",
+            "sha": "da52048244712dc2b90a7c2e9a55bd6567803ed5"
+          },
+          {
+            "path": "scripts/verify_data.py",
+            "sha": "3e52c060a1f9238f1e05ad25755d5beb8dde3937"
+          },
+          {
+            "path": "tests/test_csv.py",
+            "sha": "cc94ca0dfcdd12e52e28061f573138d5de44b438"
+          }
+        ]
+      }
     },
     {
       "github_id": 1364579857,
@@ -2074,7 +2175,41 @@
       "url": "https://github.com/Jaime393/pva-lean-bridge",
       "branch": "main",
       "visibility": "public",
-      "discovery": "metadata_only"
+      "discovery": "tree_inspected",
+      "previous_tree": null,
+      "tree": {
+        "revision": "c62ccd4ddab38a7c1326f6c96c032882a31b548e",
+        "truncated": false,
+        "file_count": 14,
+        "observed_at": "2026-11-04T03:44:08Z",
+        "evidence_scope": "draft_branch_revision_not_main",
+        "candidate_files": [
+          {
+            "path": ".github/workflows/pva.yml",
+            "sha": "099134d92b9cfc3c1b64e23a483042b126c5a22b"
+          },
+          {
+            "path": "Makefile",
+            "sha": "69d92a8f0542827ed22b5bc63e3ed4f9b55e885a"
+          },
+          {
+            "path": "README.md",
+            "sha": "a84f8f501b9790cb20448d4dba7eead21be98363"
+          },
+          {
+            "path": "cli.py",
+            "sha": "6ffcd1ec8d463865ea0ccfb66d2a558ac32c6c0d"
+          },
+          {
+            "path": "scripts/bridge.py",
+            "sha": "cb6406ca369b1ff443a329cccc4a4a75a42bb894"
+          },
+          {
+            "path": "tests/test_bridge.py",
+            "sha": "6dabaf33b3029e0575638b3bb83ff66f12acfc44"
+          }
+        ]
+      }
     },
     {
       "github_id": 1364600261,
@@ -2082,7 +2217,41 @@
       "url": "https://github.com/Jaime393/pva-ledger",
       "branch": "main",
       "visibility": "public",
-      "discovery": "metadata_only"
+      "discovery": "tree_inspected",
+      "previous_tree": null,
+      "tree": {
+        "revision": "c3fee1045c5357fff8758c4edf5706b209a1cdc1",
+        "truncated": false,
+        "file_count": 8,
+        "observed_at": "2026-11-04T03:44:09Z",
+        "evidence_scope": "draft_branch_revision_not_main",
+        "candidate_files": [
+          {
+            "path": ".github/workflows/pva.yml",
+            "sha": "5b9b24bbdffe78ac1c299a57af0e7537f8af0024"
+          },
+          {
+            "path": "Makefile",
+            "sha": "63cd4a10a791266ac62f4e193e065c95910a0871"
+          },
+          {
+            "path": "README.md",
+            "sha": "6f1fc9a066c66f4534f507d68649d2a2f7fd09b7"
+          },
+          {
+            "path": "cli.py",
+            "sha": "c52aa75a773270b31f8e4e344dd1512a2e12a8b9"
+          },
+          {
+            "path": "requirements.txt",
+            "sha": "b7c72a67b2a8e676950be23fbaa8307c8bfdd94b"
+          },
+          {
+            "path": "tests/test_receipts.py",
+            "sha": "c578c8ba3986f3473647973eb0f5c84c54bce3bb"
+          }
+        ]
+      }
     },
     {
       "github_id": 1364505882,
@@ -2092,6 +2261,35 @@
       "visibility": "public",
       "discovery": "tree_inspected",
       "tree": {
+        "revision": "e121686ac6183cc9239e2a13ce62c64849abf0c4",
+        "truncated": false,
+        "file_count": 9,
+        "observed_at": "2026-11-04T03:44:08Z",
+        "evidence_scope": "draft_branch_revision_not_main",
+        "candidate_files": [
+          {
+            "path": ".github/workflows/pva.yml",
+            "sha": "9baf2bf84fe26440ac4a03844cd358c92cdd6d9c"
+          },
+          {
+            "path": "Makefile",
+            "sha": "921d12e69cf844c29c61ab44123fb07f15f37ca4"
+          },
+          {
+            "path": "README.md",
+            "sha": "40cdb4be3f25edb63758550654c57a55f19e0072"
+          },
+          {
+            "path": "cli.py",
+            "sha": "a2ff6c63188843fd3c6782aec754916f2f437744"
+          },
+          {
+            "path": "tests/test_lint.py",
+            "sha": "30abeb1a2d56c65095c48ad080aa9ec59aed0839"
+          }
+        ]
+      },
+      "previous_tree": {
         "truncated": false,
         "file_count": 8,
         "observed_at": "2026-11-04T02:27:25.224Z",
@@ -2118,6 +2316,35 @@
       "visibility": "public",
       "discovery": "tree_inspected",
       "tree": {
+        "revision": "7d3a32c2c085b27e715188075cef2c5e74606e51",
+        "truncated": false,
+        "file_count": 8,
+        "observed_at": "2026-11-04T03:44:08Z",
+        "evidence_scope": "draft_branch_revision_not_main",
+        "candidate_files": [
+          {
+            "path": ".github/workflows/pva.yml",
+            "sha": "60e627d68687652f6304e23348c14850cccdeaca"
+          },
+          {
+            "path": "Makefile",
+            "sha": "53ed34af283161d0b720be5828e2886b0fd0032e"
+          },
+          {
+            "path": "README.md",
+            "sha": "31bff14185f138a3d2d316472c87b4864d411318"
+          },
+          {
+            "path": "cli.py",
+            "sha": "0805679a0270d06a107697531ee2b5e516c20273"
+          },
+          {
+            "path": "tests/test_orchestrator.py",
+            "sha": "85389ff1aee7f50e3227b9ac3f18b2c75efc61a5"
+          }
+        ]
+      },
+      "previous_tree": {
         "truncated": false,
         "file_count": 7,
         "observed_at": "2026-11-04T02:27:21.512Z",
@@ -2142,7 +2369,41 @@
       "url": "https://github.com/Jaime393/pva-swarm",
       "branch": "main",
       "visibility": "public",
-      "discovery": "metadata_only"
+      "discovery": "tree_inspected",
+      "previous_tree": null,
+      "tree": {
+        "revision": "49488c4c2761bb1e85f1d677c616216dc27c532d",
+        "truncated": false,
+        "file_count": 9,
+        "observed_at": "2026-11-04T03:44:09Z",
+        "evidence_scope": "draft_branch_revision_not_main",
+        "candidate_files": [
+          {
+            "path": ".github/workflows/pva.yml",
+            "sha": "6cbb15a7fb16421a15c68886fc6f0ef2b85e381f"
+          },
+          {
+            "path": "Makefile",
+            "sha": "9c65e6dbcbc6c5a87d8b16f1ef7e87f46d301daa"
+          },
+          {
+            "path": "README.md",
+            "sha": "1ad9484a1f2d7f1e4acd49e7d26a569be485ff7c"
+          },
+          {
+            "path": "app.py",
+            "sha": "8c9d71a765b3574b5a90911bfd6503a3a19b0711"
+          },
+          {
+            "path": "requirements.txt",
+            "sha": "b7c72a67b2a8e676950be23fbaa8307c8bfdd94b"
+          },
+          {
+            "path": "tests/test_store.py",
+            "sha": "811bad7c175770c60096ddbd61780a4cd160b796"
+          }
+        ]
+      }
     }
   ],
   "fronts": [
@@ -2264,6 +2525,158 @@
       "limits": [
         "Controlled fallback was not a production outage",
         "No automatic execution or autonomous daemon"
+      ]
+    },
+    {
+      "capability_id": "artifact-readiness-inspection",
+      "repository_id": 1364505882,
+      "implementation_state": "draft_local_tests_passed",
+      "pull_request": {
+        "url": "https://github.com/Jaime393/pva-lint/pull/1",
+        "commit": "e121686ac6183cc9239e2a13ce62c64849abf0c4",
+        "draft": true,
+        "merged": false
+      },
+      "checks": {
+        "local_unit_and_cli_cases": 8,
+        "result": "passed"
+      },
+      "limits": [
+        "Offline structural artifact inventory, not scientific validation",
+        "Not merged or deployed; no whole-repository or scientific certification"
+      ]
+    },
+    {
+      "capability_id": "pinned-local-pva-subset",
+      "repository_id": 1364619930,
+      "implementation_state": "draft_local_tests_passed",
+      "pull_request": {
+        "url": "https://github.com/Jaime393/pva-orchestrator/pull/1",
+        "commit": "7d3a32c2c085b27e715188075cef2c5e74606e51",
+        "draft": true,
+        "merged": false
+      },
+      "checks": {
+        "local_unit_and_cli_cases": 12,
+        "result": "passed"
+      },
+      "limits": [
+        "Five pinned local capabilities executed; scientific pipeline, Docker, Lean proof, external publication and adversarial validation remain false",
+        "Not merged or deployed; no whole-repository or scientific certification"
+      ]
+    },
+    {
+      "capability_id": "discovery-before-agent-execution",
+      "repository_id": 1288146707,
+      "implementation_state": "draft_local_tests_passed",
+      "pull_request": {
+        "url": "https://github.com/Jaime393/miu-agents/pull/1",
+        "commit": "6fa4cb05efe4b0621e081df8472451e83b89f3c4",
+        "draft": true,
+        "merged": false
+      },
+      "checks": {
+        "local_unit_and_cli_cases": 8,
+        "result": "passed"
+      },
+      "limits": [
+        null,
+        "Not merged or deployed; no whole-repository or scientific certification"
+      ]
+    },
+    {
+      "capability_id": "bounded-csv-summary",
+      "repository_id": 1364557646,
+      "implementation_state": "draft_local_tests_passed",
+      "pull_request": {
+        "url": "https://github.com/Jaime393/pva-docker-template/pull/1",
+        "commit": "e28c03e34df918fa50f467af87d868253aa0eb21",
+        "draft": true,
+        "merged": false
+      },
+      "checks": {
+        "local_unit_and_cli_cases": 7,
+        "result": "passed"
+      },
+      "limits": [
+        "Bounded local capability; no scientific or distributed-validation certification",
+        "Not merged or deployed; no whole-repository or scientific certification"
+      ]
+    },
+    {
+      "capability_id": "source-formalization-backlog",
+      "repository_id": 1364579857,
+      "implementation_state": "draft_local_tests_passed",
+      "pull_request": {
+        "url": "https://github.com/Jaime393/pva-lean-bridge/pull/1",
+        "commit": "c62ccd4ddab38a7c1326f6c96c032882a31b548e",
+        "draft": true,
+        "merged": false
+      },
+      "checks": {
+        "local_unit_and_cli_cases": 7,
+        "result": "passed"
+      },
+      "limits": [
+        "Bounded local capability; no scientific or distributed-validation certification",
+        "Not merged or deployed; no whole-repository or scientific certification"
+      ]
+    },
+    {
+      "capability_id": "local-content-receipts",
+      "repository_id": 1364600261,
+      "implementation_state": "draft_local_tests_passed",
+      "pull_request": {
+        "url": "https://github.com/Jaime393/pva-ledger/pull/1",
+        "commit": "c3fee1045c5357fff8758c4edf5706b209a1cdc1",
+        "draft": true,
+        "merged": false
+      },
+      "checks": {
+        "local_unit_and_cli_cases": 7,
+        "result": "passed"
+      },
+      "limits": [
+        "Bounded local capability; no scientific or distributed-validation certification",
+        "Not merged or deployed; no whole-repository or scientific certification"
+      ]
+    },
+    {
+      "capability_id": "reported-paper-registry",
+      "repository_id": 1364596781,
+      "implementation_state": "draft_local_tests_passed",
+      "pull_request": {
+        "url": "https://github.com/Jaime393/pva-swarm/pull/1",
+        "commit": "49488c4c2761bb1e85f1d677c616216dc27c532d",
+        "draft": true,
+        "merged": false
+      },
+      "checks": {
+        "local_unit_and_cli_cases": 7,
+        "result": "passed"
+      },
+      "limits": [
+        "Bounded local capability; no scientific or distributed-validation certification",
+        "Not merged or deployed; no whole-repository or scientific certification"
+      ]
+    },
+    {
+      "capability_id": "checksum-decoding-without-execution",
+      "repository_id": 1364665290,
+      "implementation_state": "draft_local_tests_passed",
+      "pull_request": {
+        "url": "https://github.com/Jaime393/pva-api/pull/1",
+        "commit": "7efa4ac1b361799445ec23af0c9e8b99447d44f9",
+        "draft": true,
+        "merged": false
+      },
+      "checks": {
+        "local_unit_and_cli_cases": 9,
+        "result": "passed"
+      },
+      "limits": [
+        "Bounded local capability; no scientific or distributed-validation certification",
+        "Not merged or deployed; no whole-repository or scientific certification"
       ]
     }
   ]

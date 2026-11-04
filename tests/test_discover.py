@@ -36,7 +36,7 @@ class DiscoveryTests(unittest.TestCase):
         self.assertGreater(len(catalog["repositories"]), 200)
         self.assertTrue(all(row["visibility"] == "public" for row in catalog["repositories"]))
         self.assertGreaterEqual(len(catalog["fronts"]), 7)
-        self.assertEqual(len(catalog["capabilities"]), 2)
+        self.assertEqual(len(catalog["capabilities"]), 10)
 
     def test_path_query(self):
         result = MODULE.discover(MODULE.validate(self.catalog), query="VALIDATOR")
