@@ -1,0 +1,2270 @@
+{
+  "schema": "miu.repository-catalog/v1",
+  "observed_at": "2026-11-04T02:36:55Z",
+  "owner": "Jaime393",
+  "scope": "Public repository metadata; selected complete trees; bounded draft capabilities",
+  "private_inventory": "omitted",
+  "auto_apply": false,
+  "repositories": [
+    {
+      "github_id": 1255721522,
+      "repository": "Jaime393/AR-MIU-Biotypes",
+      "url": "https://github.com/Jaime393/AR-MIU-Biotypes",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1227522381,
+      "repository": "Jaime393/FranBot",
+      "url": "https://github.com/Jaime393/FranBot",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1250694078,
+      "repository": "Jaime393/FranBot-Mural",
+      "url": "https://github.com/Jaime393/FranBot-Mural",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1232561054,
+      "repository": "Jaime393/FranBot-Private",
+      "url": "https://github.com/Jaime393/FranBot-Private",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1241754899,
+      "repository": "Jaime393/FranBotApp",
+      "url": "https://github.com/Jaime393/FranBotApp",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1255965203,
+      "repository": "Jaime393/Grimorio",
+      "url": "https://github.com/Jaime393/Grimorio",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "tree_inspected",
+      "tree": {
+        "truncated": false,
+        "file_count": 97,
+        "observed_at": "2026-11-04T02:26:08.241Z",
+        "candidate_files": [
+          {
+            "path": "README.md",
+            "sha": "af85e75225f943a71f10d6d967defd3dd9a7ab72",
+            "size": 22346
+          },
+          {
+            "path": "docs/README.md",
+            "sha": "09c10f3a873c54a9fd64eced14995be79e66c2ea",
+            "size": 3437
+          },
+          {
+            "path": "herramientas/README.md",
+            "sha": "d8bac70c09a17e39ad8b426bc5f093773a36f745",
+            "size": 2726
+          },
+          {
+            "path": "laboratorio/alma/README.md",
+            "sha": "6795b49c2dbc56a00b82318a44d1a767f56a4e05",
+            "size": 4781
+          },
+          {
+            "path": "laboratorio/miu/README.md",
+            "sha": "20a230d95d834b42e25b4bf13b3e1867a948e821",
+            "size": 4721
+          },
+          {
+            "path": "laboratorio/miu/miu_nexo.html",
+            "sha": "3bf1840b60d65ca4e7996995c6c128434cee6b7b",
+            "size": 19218
+          },
+          {
+            "path": "worker.js",
+            "sha": "811d6a4410d5f3bdcc2a0b27e53ac9ed889f03c9",
+            "size": 508
+          }
+        ],
+        "revision": "d11a424709d432fcf5270c03eeddaa69e9e5be27"
+      }
+    },
+    {
+      "github_id": 1196421915,
+      "repository": "Jaime393/IFT_Complete_Publication_2026_FINAL",
+      "url": "https://github.com/Jaime393/IFT_Complete_Publication_2026_FINAL",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1202023014,
+      "repository": "Jaime393/IFT_Core_Library",
+      "url": "https://github.com/Jaime393/IFT_Core_Library",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1202016605,
+      "repository": "Jaime393/IFT_LIGO_Analysis",
+      "url": "https://github.com/Jaime393/IFT_LIGO_Analysis",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1259737293,
+      "repository": "Jaime393/MIU",
+      "url": "https://github.com/Jaime393/MIU",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1259867597,
+      "repository": "Jaime393/MIU_V14",
+      "url": "https://github.com/Jaime393/MIU_V14",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1291993351,
+      "repository": "Jaime393/campo-de-frecuencias",
+      "url": "https://github.com/Jaime393/campo-de-frecuencias",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1351559064,
+      "repository": "Jaime393/fran-miu-micelio",
+      "url": "https://github.com/Jaime393/fran-miu-micelio",
+      "branch": "master",
+      "visibility": "public",
+      "discovery": "tree_inspected",
+      "tree": {
+        "truncated": false,
+        "file_count": 270,
+        "observed_at": "2026-11-04T02:27:43.441Z",
+        "candidate_files": [
+          {
+            "path": "WORKER_PATCH_V200.js",
+            "sha": "a5d685aa1955558e153962242aa8d1c0f41a8222",
+            "size": 1725
+          },
+          {
+            "path": "agente_fran.py",
+            "sha": "23761bc1790a117e5be9a4bc1a2b3754d817d25d",
+            "size": 4054
+          },
+          {
+            "path": "nodos/kimi/informe_kimi_worker.json",
+            "sha": "6012475192572172cf475d9711000a46d47b8d16",
+            "size": 524
+          },
+          {
+            "path": "nodos/kimi/worker_latest.json",
+            "sha": "08ed0385e86c3f3d7eecdbe3e1de65854534fe71",
+            "size": 609
+          },
+          {
+            "path": "nodos/kimi/worker_parsed.json",
+            "sha": "25208ac173f0172a98de99710c50e32cb36bf4ba",
+            "size": 609
+          },
+          {
+            "path": "nodos/kimi/worker_raw.json",
+            "sha": "47425d762d724b84b107821f649b0070bc4f3c0c",
+            "size": 524
+          },
+          {
+            "path": "worker/miu_v153_autopilot_worker.js",
+            "sha": "f62fc4c4a7e39c52a2b87412ddac7393ad4c6d63",
+            "size": 1777
+          },
+          {
+            "path": "worker/wrangler.toml",
+            "sha": "8fc9328073d5614b48fd65809b6c387f2a655abf",
+            "size": 98
+          }
+        ],
+        "revision": "686627f74970a9de36efde3ec02fa50a7426ec09"
+      }
+    },
+    {
+      "github_id": 1199075311,
+      "repository": "Jaime393/infoflow-optimizer",
+      "url": "https://github.com/Jaime393/infoflow-optimizer",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1343969227,
+      "repository": "Jaime393/latido-sonoro",
+      "url": "https://github.com/Jaime393/latido-sonoro",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1288146707,
+      "repository": "Jaime393/miu-agents",
+      "url": "https://github.com/Jaime393/miu-agents",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "tree_inspected",
+      "tree": {
+        "truncated": false,
+        "file_count": 5,
+        "observed_at": "2026-11-04T02:27:17.471Z",
+        "candidate_files": [
+          {
+            "path": "README.md",
+            "sha": "8d2183a1078a8fe04307d1cf2918391a6b8b1d31",
+            "size": 147
+          },
+          {
+            "path": "miu_agent.py",
+            "sha": "0ba0dc1b091b3145b99d21010c7135c1e5225bd2",
+            "size": 2956
+          },
+          {
+            "path": "worker.js",
+            "sha": "c162dfb723ad8b4c94937152601137345cd994c0",
+            "size": 433
+          }
+        ],
+        "revision": "be3f59b1451ff8c8e2e5cd6d81f60aa036b40bb0"
+      }
+    },
+    {
+      "github_id": 1346451299,
+      "repository": "Jaime393/miu-auto-cipher19051997-0",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-0",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346583611,
+      "repository": "Jaime393/miu-auto-cipher19051997-1",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-1",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346441207,
+      "repository": "Jaime393/miu-auto-cipher19051997-2",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-2",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346575937,
+      "repository": "Jaime393/miu-auto-cipher19051997-3",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-3",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346436255,
+      "repository": "Jaime393/miu-auto-cipher19051997-6",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-6",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346509016,
+      "repository": "Jaime393/miu-auto-cipher19051997-7",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-7",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346499623,
+      "repository": "Jaime393/miu-auto-cipher19051997-8",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-8",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346487191,
+      "repository": "Jaime393/miu-auto-cipher19051997-9",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-9",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346426315,
+      "repository": "Jaime393/miu-auto-cipher19051997-a",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-a",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346446066,
+      "repository": "Jaime393/miu-auto-cipher19051997-b",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-b",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346418631,
+      "repository": "Jaime393/miu-auto-cipher19051997-e",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-e",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346421482,
+      "repository": "Jaime393/miu-auto-cipher19051997-f",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-f",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346611593,
+      "repository": "Jaime393/miu-auto-cipher19051997-i",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-i",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346460859,
+      "repository": "Jaime393/miu-auto-cipher19051997-j",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-j",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346622693,
+      "repository": "Jaime393/miu-auto-cipher19051997-k",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-k",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346599996,
+      "repository": "Jaime393/miu-auto-cipher19051997-l",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-l",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346591037,
+      "repository": "Jaime393/miu-auto-cipher19051997-n",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-n",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346643807,
+      "repository": "Jaime393/miu-auto-cipher19051997-o",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-o",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346518188,
+      "repository": "Jaime393/miu-auto-cipher19051997-p",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-p",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346567464,
+      "repository": "Jaime393/miu-auto-cipher19051997-q",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-q",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346467679,
+      "repository": "Jaime393/miu-auto-cipher19051997-r",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-r",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346490496,
+      "repository": "Jaime393/miu-auto-cipher19051997-s",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-s",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346495143,
+      "repository": "Jaime393/miu-auto-cipher19051997-v",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-v",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346455700,
+      "repository": "Jaime393/miu-auto-cipher19051997-w",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-w",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346553970,
+      "repository": "Jaime393/miu-auto-cipher19051997-x",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-x",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346431360,
+      "repository": "Jaime393/miu-auto-cipher19051997-y",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-y",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346480993,
+      "repository": "Jaime393/miu-auto-cipher19051997-z",
+      "url": "https://github.com/Jaime393/miu-auto-cipher19051997-z",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346567349,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-0",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-0",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346527136,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-3",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-3",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346421377,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-6",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-6",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346579690,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-7",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-7",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346490389,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-8",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-8",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346441105,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-9",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-9",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346418518,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-a",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-a",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346494951,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-b",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-b",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346467506,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-d",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-d",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346436103,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-f",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-f",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346629605,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-h",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-h",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346518101,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-i",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-i",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346513570,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-j",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-j",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346540527,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-k",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-k",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346431223,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-l",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-l",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346508948,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-m",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-m",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346460718,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-n",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-n",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346558356,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-p",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-p",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346531326,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-r",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-r",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346504262,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-s",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-s",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346474762,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-t",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-t",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346426202,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-v",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-v",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346553866,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-w",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-w",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346626086,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-x",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-x",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346622616,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-y",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-y",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346545169,
+      "repository": "Jaime393/miu-auto-dereckcitovg16-z",
+      "url": "https://github.com/Jaime393/miu-auto-dereckcitovg16-z",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346599773,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-0",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-0",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346445924,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-1",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-1",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346460568,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-3",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-3",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346558221,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-5",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-5",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346527046,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-6",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-6",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346418445,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-7",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-7",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346494839,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-8",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-8",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346490263,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-9",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-9",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346575705,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-a",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-a",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346636935,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-c",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-c",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346440999,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-d",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-d",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346513479,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-e",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-e",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346486360,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-f",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-f",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346594636,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-g",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-g",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346455518,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-h",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-h",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346618968,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-j",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-j",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346426115,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-k",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-k",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346431083,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-l",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-l",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346474609,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-m",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-m",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346451044,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-p",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-p",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346421260,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-q",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-q",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346517999,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-r",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-r",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346549327,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-s",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-s",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346583491,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-t",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-t",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346480791,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-u",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-u",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346579601,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-v",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-v",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346504129,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-w",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-w",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346626031,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-y",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-y",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346508832,
+      "repository": "Jaime393/miu-auto-franchescopalacios9-z",
+      "url": "https://github.com/Jaime393/miu-auto-franchescopalacios9-z",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346435856,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-1",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-1",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346499429,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-2",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-2",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346575567,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-3",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-3",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346517901,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-5",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-5",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346430978,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-6",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-6",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346445818,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-7",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-7",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346455406,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-8",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-8",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346440887,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-9",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-9",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346467269,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-a",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-a",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346549241,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-b",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-b",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346615121,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-c",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-c",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346450910,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-e",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-e",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346504018,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-f",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-f",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346480678,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-g",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-g",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346526970,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-h",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-h",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346426014,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-i",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-i",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346531179,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-j",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-j",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346562814,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-k",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-k",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346474411,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-l",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-l",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346508717,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-m",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-m",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346646686,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-o",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-o",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346418353,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-p",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-p",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346494718,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-q",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-q",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346540366,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-r",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-r",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346460404,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-u",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-u",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346490180,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-w",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-w",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346553683,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-x",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-x",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346513378,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-y",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-y",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346594520,
+      "repository": "Jaime393/miu-auto-jaimedanielmartinez75-z",
+      "url": "https://github.com/Jaime393/miu-auto-jaimedanielmartinez75-z",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346485698,
+      "repository": "Jaime393/miu-auto-tabletonephantom-1",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-1",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346513233,
+      "repository": "Jaime393/miu-auto-tabletonephantom-2",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-2",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346430840,
+      "repository": "Jaime393/miu-auto-tabletonephantom-3",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-3",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346594441,
+      "repository": "Jaime393/miu-auto-tabletonephantom-7",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-7",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346643636,
+      "repository": "Jaime393/miu-auto-tabletonephantom-9",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-9",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346445726,
+      "repository": "Jaime393/miu-auto-tabletonephantom-a",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-a",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346435701,
+      "repository": "Jaime393/miu-auto-tabletonephantom-b",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-b",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346467134,
+      "repository": "Jaime393/miu-auto-tabletonephantom-c",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-c",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346535609,
+      "repository": "Jaime393/miu-auto-tabletonephantom-d",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-d",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346517800,
+      "repository": "Jaime393/miu-auto-tabletonephantom-e",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-e",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346421097,
+      "repository": "Jaime393/miu-auto-tabletonephantom-f",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-f",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346455315,
+      "repository": "Jaime393/miu-auto-tabletonephantom-g",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-g",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346526879,
+      "repository": "Jaime393/miu-auto-tabletonephantom-h",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-h",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346425778,
+      "repository": "Jaime393/miu-auto-tabletonephantom-i",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-i",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346450764,
+      "repository": "Jaime393/miu-auto-tabletonephantom-j",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-j",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346646643,
+      "repository": "Jaime393/miu-auto-tabletonephantom-l",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-l",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346508594,
+      "repository": "Jaime393/miu-auto-tabletonephantom-m",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-m",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346440762,
+      "repository": "Jaime393/miu-auto-tabletonephantom-n",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-n",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346540255,
+      "repository": "Jaime393/miu-auto-tabletonephantom-o",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-o",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346571277,
+      "repository": "Jaime393/miu-auto-tabletonephantom-q",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-q",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346622441,
+      "repository": "Jaime393/miu-auto-tabletonephantom-r",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-r",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346583352,
+      "repository": "Jaime393/miu-auto-tabletonephantom-s",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-s",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346544918,
+      "repository": "Jaime393/miu-auto-tabletonephantom-t",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-t",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346636818,
+      "repository": "Jaime393/miu-auto-tabletonephantom-u",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-u",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346418257,
+      "repository": "Jaime393/miu-auto-tabletonephantom-v",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-v",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346611386,
+      "repository": "Jaime393/miu-auto-tabletonephantom-w",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-w",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346567055,
+      "repository": "Jaime393/miu-auto-tabletonephantom-x",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-x",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346503882,
+      "repository": "Jaime393/miu-auto-tabletonephantom-y",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-y",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346605882,
+      "repository": "Jaime393/miu-auto-tabletonephantom-z",
+      "url": "https://github.com/Jaime393/miu-auto-tabletonephantom-z",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1343969476,
+      "repository": "Jaime393/miu-colmena",
+      "url": "https://github.com/Jaime393/miu-colmena",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1343969162,
+      "repository": "Jaime393/miu-ecosistema",
+      "url": "https://github.com/Jaime393/miu-ecosistema",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346409480,
+      "repository": "Jaime393/miu-gh-jaimepvicente-z",
+      "url": "https://github.com/Jaime393/miu-gh-jaimepvicente-z",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346511269,
+      "repository": "Jaime393/miu-learn-jaimepvicente-0-7",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-0-7",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346457803,
+      "repository": "Jaime393/miu-learn-jaimepvicente-1-5",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-1-5",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346638829,
+      "repository": "Jaime393/miu-learn-jaimepvicente-1-8",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-1-8",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346538006,
+      "repository": "Jaime393/miu-learn-jaimepvicente-1-m",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-1-m",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346418886,
+      "repository": "Jaime393/miu-learn-jaimepvicente-2-p",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-2-p",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346596880,
+      "repository": "Jaime393/miu-learn-jaimepvicente-4-k",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-4-k",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346556085,
+      "repository": "Jaime393/miu-learn-jaimepvicente-5-2",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-5-2",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346492610,
+      "repository": "Jaime393/miu-learn-jaimepvicente-8-5",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-8-5",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346438290,
+      "repository": "Jaime393/miu-learn-jaimepvicente-a-0",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-a-0",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346547211,
+      "repository": "Jaime393/miu-learn-jaimepvicente-a-a",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-a-a",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346565144,
+      "repository": "Jaime393/miu-learn-jaimepvicente-b-e",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-b-e",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346520475,
+      "repository": "Jaime393/miu-learn-jaimepvicente-d-m",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-d-m",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346617095,
+      "repository": "Jaime393/miu-learn-jaimepvicente-f-1",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-f-1",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346624324,
+      "repository": "Jaime393/miu-learn-jaimepvicente-h-e",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-h-e",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346483389,
+      "repository": "Jaime393/miu-learn-jaimepvicente-i-w",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-i-w",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346428522,
+      "repository": "Jaime393/miu-learn-jaimepvicente-j-5",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-j-5",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346501855,
+      "repository": "Jaime393/miu-learn-jaimepvicente-j-f",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-j-f",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346470900,
+      "repository": "Jaime393/miu-learn-jaimepvicente-k-j",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-k-j",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346645248,
+      "repository": "Jaime393/miu-learn-jaimepvicente-m-v",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-m-v",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346589121,
+      "repository": "Jaime393/miu-learn-jaimepvicente-n-1",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-n-1",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346573477,
+      "repository": "Jaime393/miu-learn-jaimepvicente-p-m",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-p-m",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346529196,
+      "repository": "Jaime393/miu-learn-jaimepvicente-t-w",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-t-w",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346448394,
+      "repository": "Jaime393/miu-learn-jaimepvicente-v-j",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-v-j",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346417702,
+      "repository": "Jaime393/miu-learn-jaimepvicente-v-r",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-v-r",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346581661,
+      "repository": "Jaime393/miu-learn-jaimepvicente-x-8",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-x-8",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346609245,
+      "repository": "Jaime393/miu-learn-jaimepvicente-x-u",
+      "url": "https://github.com/Jaime393/miu-learn-jaimepvicente-x-u",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1345421943,
+      "repository": "Jaime393/miu-mesh",
+      "url": "https://github.com/Jaime393/miu-mesh",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1343969312,
+      "repository": "Jaime393/miu-portable",
+      "url": "https://github.com/Jaime393/miu-portable",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "tree_inspected",
+      "tree": {
+        "truncated": false,
+        "file_count": 13,
+        "observed_at": "2026-11-04T02:27:40.158Z",
+        "candidate_files": [
+          {
+            "path": "README.md",
+            "sha": "ddfe3add2d96953d33f044e4bf87e5ef6d2eaa3f",
+            "size": 112
+          },
+          {
+            "path": "worker.js",
+            "sha": "9798d0591268af50e6e07c7af7ff88fb5d435328",
+            "size": 411
+          }
+        ],
+        "revision": "0de78f97b0dcbd5a34365a0a9cf60bc6c668ebe2"
+      }
+    },
+    {
+      "github_id": 1288664424,
+      "repository": "Jaime393/miu-portable-extra",
+      "url": "https://github.com/Jaime393/miu-portable-extra",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "tree_inspected",
+      "tree": {
+        "truncated": false,
+        "file_count": 100,
+        "observed_at": "2026-11-04T02:27:36.646Z",
+        "candidate_files": [
+          {
+            "path": "README.md",
+            "sha": "e22c69177cc26eddec180a5d15c3a33ed753ac8d",
+            "size": 5281
+          },
+          {
+            "path": "citas/2026-07-05_tanda-46_tipping-points-climaticos.csv",
+            "sha": "a1dc80eea34a2aa44a0c58deb41aaf3fad3b64e1",
+            "size": 4192
+          },
+          {
+            "path": "citas/2026-07-06_tanda-92_enso-redes-climaticas.csv",
+            "sha": "cb9959d96be7cadb5c590fcd31df267bd36adc48",
+            "size": 3562
+          }
+        ],
+        "revision": "2ab26175d50ff076889b3988bfd673adb60ea47b"
+      }
+    },
+    {
+      "github_id": 1288663373,
+      "repository": "Jaime393/miu-portable-registry",
+      "url": "https://github.com/Jaime393/miu-portable-registry",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "tree_inspected",
+      "tree": {
+        "truncated": false,
+        "file_count": 42,
+        "observed_at": "2026-11-04T02:26:04.112Z",
+        "candidate_files": [
+          {
+            "path": "README.md",
+            "sha": "a68d558edb96227d1cdbd2730b488e3af6ac9ea5",
+            "size": 6288
+          },
+          {
+            "path": "worker.js",
+            "sha": "c162dfb723ad8b4c94937152601137345cd994c0",
+            "size": 433
+          }
+        ],
+        "revision": "137268f4725ff4cfedc8b26bce010eb5414087d0"
+      }
+    },
+    {
+      "github_id": 1288664670,
+      "repository": "Jaime393/miu-portable-skills",
+      "url": "https://github.com/Jaime393/miu-portable-skills",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "tree_inspected",
+      "tree": {
+        "truncated": false,
+        "file_count": 10,
+        "observed_at": "2026-11-04T02:25:59.860Z",
+        "candidate_files": [
+          {
+            "path": "README.md",
+            "sha": "1f1a7c825452fc58354f28ad8b72828c26162e53",
+            "size": 2227
+          },
+          {
+            "path": "registros/AUDITORIA_EJECUTIVA_MIU.md",
+            "sha": "62410c359a832a670aaa0aa659c246744c2b9a4a",
+            "size": 7057
+          },
+          {
+            "path": "registros/NEXO_GENERICO_v1_1.md",
+            "sha": "3ee20a305edb85ce28b3b81aa39a784aba83d416",
+            "size": 12423
+          },
+          {
+            "path": "registros/SKILLS_METODOLOGIA_GENERAL.md",
+            "sha": "da473d38bb3befa8037266bf241c1c15b57a7cb7",
+            "size": 10851
+          },
+          {
+            "path": "registros/SKILL_Test Enrutamiento Otro Skill.md",
+            "sha": "ac74e845759c7600772bb20ebcff51f5cb7b624b",
+            "size": 220
+          },
+          {
+            "path": "tests/fixtures/README.md",
+            "sha": "bb1fbd6784f26a18f3c4ba6aa7fe76145dfe085d",
+            "size": 321
+          }
+        ],
+        "revision": "7b2213a6ad100158e138a46d75eb1b2c86e29ea2"
+      }
+    },
+    {
+      "github_id": 1288146748,
+      "repository": "Jaime393/miu-public-data",
+      "url": "https://github.com/Jaime393/miu-public-data",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346533225,
+      "repository": "Jaime393/miu-semilla-latente-mt91ky28-0",
+      "url": "https://github.com/Jaime393/miu-semilla-latente-mt91ky28-0",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346533262,
+      "repository": "Jaime393/miu-semilla-latente-mt91l05w-1",
+      "url": "https://github.com/Jaime393/miu-semilla-latente-mt91l05w-1",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346533321,
+      "repository": "Jaime393/miu-semilla-latente-mt91l2pm-2",
+      "url": "https://github.com/Jaime393/miu-semilla-latente-mt91l2pm-2",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346701437,
+      "repository": "Jaime393/miu-semilla-latente-mt99s09x-0",
+      "url": "https://github.com/Jaime393/miu-semilla-latente-mt99s09x-0",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346701463,
+      "repository": "Jaime393/miu-semilla-latente-mt99s2lh-1",
+      "url": "https://github.com/Jaime393/miu-semilla-latente-mt99s2lh-1",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346701516,
+      "repository": "Jaime393/miu-semilla-latente-mt99s6np-2",
+      "url": "https://github.com/Jaime393/miu-semilla-latente-mt99s6np-2",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1288146674,
+      "repository": "Jaime393/miu-tools",
+      "url": "https://github.com/Jaime393/miu-tools",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "tree_inspected",
+      "tree": {
+        "truncated": false,
+        "file_count": 20,
+        "observed_at": "2026-11-04T02:26:12.008Z",
+        "candidate_files": [
+          {
+            "path": "README.md",
+            "sha": "7a6807363018ba6adad38cd75ec381c9b9d9098a",
+            "size": 207
+          },
+          {
+            "path": "benchmarks/df/README.md",
+            "sha": "50ed02dbcf7553ec04256fb2af99a33b9b6e6f12",
+            "size": 450
+          },
+          {
+            "path": "scripts/generate_audit_record.py",
+            "sha": "0eabc5ea2c0c57d90091a1c1566dc8e9e79c2426",
+            "size": 413
+          },
+          {
+            "path": "tools/audit_act_generator.py",
+            "sha": "53764fa3b44f65d8011a2de4d2efe7bf3deb69ef",
+            "size": 350
+          },
+          {
+            "path": "tools/audit_record_generator.py",
+            "sha": "f016ff3339a79242856b45a7908e2ba3b91d9a0b",
+            "size": 334
+          },
+          {
+            "path": "tools/generate_audit_record.py",
+            "sha": "c8860009ba8c224c970ad8dcaa61006a9e027116",
+            "size": 353
+          },
+          {
+            "path": "worker.js",
+            "sha": "811d6a4410d5f3bdcc2a0b27e53ac9ed889f03c9",
+            "size": 508
+          }
+        ],
+        "revision": "362905dd2d64418229be3f3ea964aa2f322cbf5c"
+      }
+    },
+    {
+      "github_id": 1343969385,
+      "repository": "Jaime393/miu-v14",
+      "url": "https://github.com/Jaime393/miu-v14",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346945756,
+      "repository": "Jaime393/miu-v150-arte-phi4-generador",
+      "url": "https://github.com/Jaime393/miu-v150-arte-phi4-generador",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346945592,
+      "repository": "Jaime393/miu-v150-global-mind-gossip-phi4",
+      "url": "https://github.com/Jaime393/miu-v150-global-mind-gossip-phi4",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346945832,
+      "repository": "Jaime393/miu-v150-lod-c20-predictor",
+      "url": "https://github.com/Jaime393/miu-v150-lod-c20-predictor",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1346945671,
+      "repository": "Jaime393/miu-v150-memoria-fractal-phi4",
+      "url": "https://github.com/Jaime393/miu-v150-memoria-fractal-phi4",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316898785,
+      "repository": "Jaime393/nutriente-compiladores-jit-para-risc-v-en-ens-20260730010736",
+      "url": "https://github.com/Jaime393/nutriente-compiladores-jit-para-risc-v-en-ens-20260730010736",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316901250,
+      "repository": "Jaime393/nutriente-compiladores-jit-para-risc-v-en-ens-20260730011032",
+      "url": "https://github.com/Jaime393/nutriente-compiladores-jit-para-risc-v-en-ens-20260730011032",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316913141,
+      "repository": "Jaime393/nutriente-compiladores-jit-para-risc-v-en-ens-20260730012402",
+      "url": "https://github.com/Jaime393/nutriente-compiladores-jit-para-risc-v-en-ens-20260730012402",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316909509,
+      "repository": "Jaime393/nutriente-embeddings-jer-rquicos-para-portugu-s-20260730011952",
+      "url": "https://github.com/Jaime393/nutriente-embeddings-jer-rquicos-para-portugu-s-20260730011952",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316898757,
+      "repository": "Jaime393/nutriente-federated-learning-en-android-sin-google-20260730010736",
+      "url": "https://github.com/Jaime393/nutriente-federated-learning-en-android-sin-google-20260730010736",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316898723,
+      "repository": "Jaime393/nutriente-fine-tuning-lora-para-m-dico-en-chino-20260730010736",
+      "url": "https://github.com/Jaime393/nutriente-fine-tuning-lora-para-m-dico-en-chino-20260730010736",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316898822,
+      "repository": "Jaime393/nutriente-generaci-n-de-m-sica-maqam-20260730010737",
+      "url": "https://github.com/Jaime393/nutriente-generaci-n-de-m-sica-maqam-20260730010737",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316901181,
+      "repository": "Jaime393/nutriente-modelo-de-lenguaje-para-leyes-rusas-20260730011032",
+      "url": "https://github.com/Jaime393/nutriente-modelo-de-lenguaje-para-leyes-rusas-20260730011032",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316901222,
+      "repository": "Jaime393/nutriente-modelos-3d-nerf-en-telegram-bots-20260730011032",
+      "url": "https://github.com/Jaime393/nutriente-modelos-3d-nerf-en-telegram-bots-20260730011032",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316909560,
+      "repository": "Jaime393/nutriente-modelos-3d-nerf-en-telegram-bots-20260730011952",
+      "url": "https://github.com/Jaime393/nutriente-modelos-3d-nerf-en-telegram-bots-20260730011952",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316898848,
+      "repository": "Jaime393/nutriente-modelos-de-difusi-n-para-arte-chino-20260730010737",
+      "url": "https://github.com/Jaime393/nutriente-modelos-de-difusi-n-para-arte-chino-20260730010737",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316909582,
+      "repository": "Jaime393/nutriente-modelos-de-difusi-n-para-arte-chino-20260730011952",
+      "url": "https://github.com/Jaime393/nutriente-modelos-de-difusi-n-para-arte-chino-20260730011952",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316913180,
+      "repository": "Jaime393/nutriente-modelos-de-difusi-n-para-arte-chino-20260730012402",
+      "url": "https://github.com/Jaime393/nutriente-modelos-de-difusi-n-para-arte-chino-20260730012402",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316909537,
+      "repository": "Jaime393/nutriente-nlp-rabe-con-diacr-ticos-20260730011952",
+      "url": "https://github.com/Jaime393/nutriente-nlp-rabe-con-diacr-ticos-20260730011952",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316913220,
+      "repository": "Jaime393/nutriente-optimizaci-n-de-moe-en-ascend-20260730012402",
+      "url": "https://github.com/Jaime393/nutriente-optimizaci-n-de-moe-en-ascend-20260730012402",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316901293,
+      "repository": "Jaime393/nutriente-quantizaci-n-gptq-en-rust-20260730011032",
+      "url": "https://github.com/Jaime393/nutriente-quantizaci-n-gptq-en-rust-20260730011032",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316909465,
+      "repository": "Jaime393/nutriente-sistemas-de-recomendaci-n-sin-internet-20260730011952",
+      "url": "https://github.com/Jaime393/nutriente-sistemas-de-recomendaci-n-sin-internet-20260730011952",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316913197,
+      "repository": "Jaime393/nutriente-sistemas-de-recomendaci-n-sin-internet-20260730012402",
+      "url": "https://github.com/Jaime393/nutriente-sistemas-de-recomendaci-n-sin-internet-20260730012402",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316913159,
+      "repository": "Jaime393/nutriente-tinyml-jugaad-en-raspberry-pi-pico-20260730012402",
+      "url": "https://github.com/Jaime393/nutriente-tinyml-jugaad-en-raspberry-pi-pico-20260730012402",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1316901137,
+      "repository": "Jaime393/nutriente-zero-shot-para-lenguas-siberianas-20260730011032",
+      "url": "https://github.com/Jaime393/nutriente-zero-shot-para-lenguas-siberianas-20260730011032",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 292174862,
+      "repository": "Jaime393/proyect1",
+      "url": "https://github.com/Jaime393/proyect1",
+      "branch": "master",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1364665290,
+      "repository": "Jaime393/pva-api",
+      "url": "https://github.com/Jaime393/pva-api",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1364557646,
+      "repository": "Jaime393/pva-docker-template",
+      "url": "https://github.com/Jaime393/pva-docker-template",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1364579857,
+      "repository": "Jaime393/pva-lean-bridge",
+      "url": "https://github.com/Jaime393/pva-lean-bridge",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1364600261,
+      "repository": "Jaime393/pva-ledger",
+      "url": "https://github.com/Jaime393/pva-ledger",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    },
+    {
+      "github_id": 1364505882,
+      "repository": "Jaime393/pva-lint",
+      "url": "https://github.com/Jaime393/pva-lint",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "tree_inspected",
+      "tree": {
+        "truncated": false,
+        "file_count": 8,
+        "observed_at": "2026-11-04T02:27:25.224Z",
+        "candidate_files": [
+          {
+            "path": "README.md",
+            "sha": "3692529c9e0ee77d0c26d65e82bf367a5917b204",
+            "size": 328
+          },
+          {
+            "path": "cli.py",
+            "sha": "4270b550f5d76e604c7df234e6e4586307f9b193",
+            "size": 3242
+          }
+        ],
+        "revision": "cac7b5ce304c713d9d80af1852df1492028464eb"
+      }
+    },
+    {
+      "github_id": 1364619930,
+      "repository": "Jaime393/pva-orchestrator",
+      "url": "https://github.com/Jaime393/pva-orchestrator",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "tree_inspected",
+      "tree": {
+        "truncated": false,
+        "file_count": 7,
+        "observed_at": "2026-11-04T02:27:21.512Z",
+        "candidate_files": [
+          {
+            "path": "README.md",
+            "sha": "529d6db42e282bde2f0bcbd1b4b3aa5f7905cfa5",
+            "size": 354
+          },
+          {
+            "path": "cli.py",
+            "sha": "e5b0409e92c8ecc3a825416dbf1f5c887c736064",
+            "size": 751
+          }
+        ],
+        "revision": "1b26a09ab28c32ace485e3ba912e75047938d360"
+      }
+    },
+    {
+      "github_id": 1364596781,
+      "repository": "Jaime393/pva-swarm",
+      "url": "https://github.com/Jaime393/pva-swarm",
+      "branch": "main",
+      "visibility": "public",
+      "discovery": "metadata_only"
+    }
+  ],
+  "fronts": [
+    {
+      "front_id": "skills-methodology",
+      "title": "Skills y metodología",
+      "repository_ids": [
+        1288664670
+      ],
+      "status": "navigation_candidates_not_runtime_verified"
+    },
+    {
+      "front_id": "tools-evidence",
+      "title": "Herramientas y actas",
+      "repository_ids": [
+        1288146674
+      ],
+      "status": "navigation_candidates_not_runtime_verified"
+    },
+    {
+      "front_id": "registry-discovery",
+      "title": "Registro y descubrimiento",
+      "repository_ids": [
+        1288663373
+      ],
+      "status": "navigation_candidates_not_runtime_verified"
+    },
+    {
+      "front_id": "agents-routing",
+      "title": "Agentes y enrutamiento",
+      "repository_ids": [
+        1288146707
+      ],
+      "status": "navigation_candidates_not_runtime_verified"
+    },
+    {
+      "front_id": "validation-pva",
+      "title": "Validación PVA",
+      "repository_ids": [
+        1364619930,
+        1364505882,
+        1364665290,
+        1364600261,
+        1364579857,
+        1364596781,
+        1364557646
+      ],
+      "status": "navigation_candidates_not_runtime_verified"
+    },
+    {
+      "front_id": "portability-network",
+      "title": "Portabilidad y red",
+      "repository_ids": [
+        1343969312,
+        1288664424,
+        1351559064,
+        1345421943
+      ],
+      "status": "navigation_candidates_not_runtime_verified"
+    },
+    {
+      "front_id": "grimorio-knowledge",
+      "title": "Grimorio y documentación",
+      "repository_ids": [
+        1255965203
+      ],
+      "status": "navigation_candidates_not_runtime_verified"
+    },
+    {
+      "front_id": "other-entrypoints",
+      "title": "Otros frentes por inspeccionar",
+      "repository_ids": [
+        1227522381,
+        1241754899,
+        1202023014,
+        1202016605,
+        1255721522,
+        1343969227
+      ],
+      "status": "navigation_candidates_not_runtime_verified"
+    }
+  ],
+  "capabilities": [
+    {
+      "capability_id": "versioned-audit-record-generator",
+      "repository_id": 1288146674,
+      "implementation_state": "draft_local_tests_passed",
+      "pull_request": {
+        "url": "https://github.com/Jaime393/miu-tools/pull/1",
+        "commit": "98f399ac4ea560faff120687ac3de9adc8a6e303",
+        "draft": true,
+        "merged": false
+      },
+      "checks": {
+        "local_unit_and_cli_cases": 14,
+        "result": "passed"
+      },
+      "limits": [
+        "No network persistence performed by generator",
+        "Not merged or deployed"
+      ]
+    },
+    {
+      "capability_id": "checkpoint-discovery-and-network-reader",
+      "repository_id": 1288664670,
+      "implementation_state": "draft_local_tests_passed",
+      "pull_request": {
+        "url": "https://github.com/Jaime393/miu-portable-skills/pull/1",
+        "commit": "5b0fa27e08a041c4a3bb1ab12d25d803e85f47a5",
+        "draft": true,
+        "merged": false
+      },
+      "checks": {
+        "skill_format": "passed",
+        "mocked_reader_cases": 6,
+        "result": "passed",
+        "prior_live_reads": 3
+      },
+      "limits": [
+        "Controlled fallback was not a production outage",
+        "No automatic execution or autonomous daemon"
+      ]
+    }
+  ]
+}
